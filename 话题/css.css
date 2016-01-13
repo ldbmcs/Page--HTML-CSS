@@ -1,0 +1,145 @@
+/* CSS Document */
+body{
+	margin:0px;
+	padding:0px
+	}
+ul,li{
+	list-style-type:none;
+}
+
+#top{
+/*主页导航栏CSS样式*/
+	height:50px;
+	background-color:#1154F3;
+	padding-left:50px;
+	line-height:43px;
+		}
+
+.input1{
+	width:367px;
+	height:33px;
+	background-image:url(../../%E5%9B%BE%E7%89%87/%E6%90%9C%E7%B4%A2%E5%9B%BE%E6%A0%87.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	position:absolute;
+	top:12px;
+	left:385px;
+	padding-left:10px;
+	font-size:14px;
+}
+a[href]{
+	text-decoration: none;
+}
+.span{
+	padding-left:10px;
+	font-size:30px;
+	position:absolute;
+	top:12px;
+	left:310px;
+	
+}
+.span2{
+	font-size:24px;
+}
+
+
+.ul1{
+	position:absolute;
+	top:9px;
+	left:785px;
+	list-style-type:none;
+	color:white;
+	
+	}
+.ul1 li{
+	float:left;
+}
+.ul2{
+	position:absolute;
+	top:6px;
+	left:1070px;
+	list-style-type:none;
+	color:white;
+	
+}
+.ul2 li{
+	float:left;
+}
+.li1{
+	width:65px;
+	height:40;
+	font-size:16px;
+	background-color:#6AAEF5;
+	color:white;
+}
+#left{
+	position:absolute;
+	top:140px;
+	left:310px;
+	width:670px;
+
+}
+#right{
+	position:absolute;
+	top:140px;
+	left:1000px;
+	width:270px;
+	
+}
+
+#left1{
+	width:670px;
+	height:150px;
+	
+}
+#c1{
+	float:left;
+	
+}
+#c2{
+	float:left;
+	paddint:0px;
+	margin:0px;
+	
+}
+
+#lia{
+	font-size:24px;
+	color:#000000;
+}
+#r1{
+	width:270px;
+	height:150px;
+	border:1px solid black;
+	border-radius:5px;
+    text-align:center;
+}
+.input3{
+	background-color:#74ABF5;
+	font-size:24px;
+
+}
+a:hover {
+ text-decoration: underline;
+ color: #FF0000;
+}
+#r21{
+	float:left;
+	width:50;
+	height:90;
+	margin:auto;
+}
+#r22{
+	padding-left:10px;
+	margin:auto;
+	float:right;
+}
+.cont{
+	font-size:12px;
+	color:#000000;
+}
+.cont1{
+	font-size:9px;
+	color:#000000;
+}
+
